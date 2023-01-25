@@ -42,6 +42,8 @@
   * terraform plan 
   * terraform apply
 
+![home_Page Image](./Images/apply.png)
+
 ### Get The Load Balancer IP And Port And Test it :
 
 ![home_Page Image](./Images/load-balancer.png)
