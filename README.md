@@ -38,9 +38,9 @@
 
 ### For Apply The Terraform Code :
 
-  * terraform init
-  * terraform plan 
-  * terraform apply
+  * $ terraform init
+  * $ terraform plan 
+  * $ terraform apply
 
 ![home_Page Image](./Images/apply.png)
 
