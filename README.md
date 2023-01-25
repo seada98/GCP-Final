@@ -17,6 +17,8 @@
   * $ gsutil mb -p iti-seada -c standard -l us-central1 -b on gs://seada-bucket-yaml
   * $ gsutil cp -r /home/mohamed/GCP-Final/gke-dep/ gs://seada-bucket-yaml
 
+![home_Page Image](./Images/bucket.png)
+
 ### Using Script.sh File When The VM Created Will Do : 
 
   * Install gcloud 
