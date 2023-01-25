@@ -26,6 +26,8 @@
   * Copy yaml Files From Bucket To VM
   * Apply All yaml Files
 
+![home_Page Image](./Images/script.png)
+
 ### Permission To Access Private Container Registry :
 
   * It Added To The Code
