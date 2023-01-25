@@ -36,8 +36,16 @@
 
 ![home_Page Image](./Images/permission.png)
 
+### For Apply The Terraform Code :
+
+  * terraform init
+  * terraform plan 
+  * terraform apply
+
 ### Get The Load Balancer IP And Port And Test it :
 
 ![home_Page Image](./Images/load-balancer.png)
 
 ![home_Page Image](./Images/test.png)
+
+
