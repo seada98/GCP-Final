@@ -12,6 +12,8 @@
   * $ docker tag redis eu.gcr.io/iti-seada/redis-gcr
   * $ docker push eu.gcr.io/iti-seada/redis-gcr
 
+![home_Page Image](./Images/gcr.png)
+
 ### Create New Bucket And Upload yaml Files To The Bucket :
 
   * $ gsutil mb -p iti-seada -c standard -l us-central1 -b on gs://seada-bucket-yaml
